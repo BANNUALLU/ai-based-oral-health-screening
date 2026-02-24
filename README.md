@@ -147,21 +147,5 @@ PASSWORD = "your_gmail_app_password"
 
 This application is intended for **educational and screening purposes only** and should **not replace professional dental diagnosis**.
 
----
 
-## 👨‍💻 Author
 
-**Final Year Project**
-AI Oral Health Screening System
-Python • Flask • YOLO • Computer Vision
-
----
-
-If you want next:
-
-* `requirements.txt` final version
-* Viva PPT outline
-* Deployment on AWS / EC2
-* Resume project description
-
-Just tell me bro 💪
